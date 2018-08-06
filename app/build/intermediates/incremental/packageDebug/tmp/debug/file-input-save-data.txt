@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 06 14:01:19 PDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/chaitrapai/Downloads/MyFirstApp/app/build/intermediates/transforms/dexMerger/debug/33
+0.path=classes.dex
+0.set=DEX
+count=1

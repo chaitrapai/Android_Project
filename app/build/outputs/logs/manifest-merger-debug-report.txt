@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/e5d74193d8ddff616746b37080fbc149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a6e51c8f0bf058765037018a9c6e2b1e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/3982efeaf851df7a52169d788d4a51fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/b30a9de53a3c982f50cc3aa497e244b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d64443c4d106e561d34552a5ab8016d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/e1bf6ab00f2c6fd16675aeb4943d2945/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/079be099d6a8304ad13a8542586066c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/77e3f5ded2f603ca08e9ac89290c9fa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ffb06283c9fc1e4ca8a11c7a3da35f54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/4c10489acad21b8ecdf64c69d84d85e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/9c3845157810d71ec417aad184646f20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f7ace9c62df64597cc5b95f8698370c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/104640c4102e410a22f1890810709499/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/65c76dba45da0fcc8a2279b95fd482bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/df5fa4e7ae5bd5369b99fb2ca2529dc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/18232d581843798b05265dd54da967c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fc73217948cf984cbf6aedad190d43b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c0ebae15435b30d9fc01e41fa5e67b75/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ff164d551a16781b97fb14c3e9ae1117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/6478a4879c9b7005ea98591d99e594cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37ff2bcdfc10c81756970d36495b3a0c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a3dae073f28c60f0af356f39b9b231c7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a7d5d96a2d3f465a4982f4d4fb90c91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9ba159afc934acb44ad112f613f7ea69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/428515575ba1b93e43826b42184c47fd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:4:5-85
+	android:name
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:4:22-66
+application
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a6e51c8f0bf058765037018a9c6e2b1e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a6e51c8f0bf058765037018a9c6e2b1e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c0ebae15435b30d9fc01e41fa5e67b75/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c0ebae15435b30d9fc01e41fa5e67b75/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:9:5-37
+	android:roundIcon
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.chaitradinesh.myfirstapp.MainActivity
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/e5d74193d8ddff616746b37080fbc149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/e5d74193d8ddff616746b37080fbc149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a6e51c8f0bf058765037018a9c6e2b1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a6e51c8f0bf058765037018a9c6e2b1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/3982efeaf851df7a52169d788d4a51fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/3982efeaf851df7a52169d788d4a51fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/b30a9de53a3c982f50cc3aa497e244b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/b30a9de53a3c982f50cc3aa497e244b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d64443c4d106e561d34552a5ab8016d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d64443c4d106e561d34552a5ab8016d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/e1bf6ab00f2c6fd16675aeb4943d2945/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/e1bf6ab00f2c6fd16675aeb4943d2945/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/079be099d6a8304ad13a8542586066c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/079be099d6a8304ad13a8542586066c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/77e3f5ded2f603ca08e9ac89290c9fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/77e3f5ded2f603ca08e9ac89290c9fa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ffb06283c9fc1e4ca8a11c7a3da35f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ffb06283c9fc1e4ca8a11c7a3da35f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/4c10489acad21b8ecdf64c69d84d85e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/4c10489acad21b8ecdf64c69d84d85e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/9c3845157810d71ec417aad184646f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/9c3845157810d71ec417aad184646f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f7ace9c62df64597cc5b95f8698370c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/f7ace9c62df64597cc5b95f8698370c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/104640c4102e410a22f1890810709499/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/104640c4102e410a22f1890810709499/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/65c76dba45da0fcc8a2279b95fd482bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/65c76dba45da0fcc8a2279b95fd482bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/df5fa4e7ae5bd5369b99fb2ca2529dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/df5fa4e7ae5bd5369b99fb2ca2529dc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/21a5aa7d876fcf5bb8e67d077cdff177/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/18232d581843798b05265dd54da967c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/18232d581843798b05265dd54da967c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fc73217948cf984cbf6aedad190d43b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fc73217948cf984cbf6aedad190d43b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c0ebae15435b30d9fc01e41fa5e67b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/c0ebae15435b30d9fc01e41fa5e67b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ff164d551a16781b97fb14c3e9ae1117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/ff164d551a16781b97fb14c3e9ae1117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/6478a4879c9b7005ea98591d99e594cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/6478a4879c9b7005ea98591d99e594cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37ff2bcdfc10c81756970d36495b3a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37ff2bcdfc10c81756970d36495b3a0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a3dae073f28c60f0af356f39b9b231c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a3dae073f28c60f0af356f39b9b231c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a7d5d96a2d3f465a4982f4d4fb90c91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3a7d5d96a2d3f465a4982f4d4fb90c91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9ba159afc934acb44ad112f613f7ea69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9ba159afc934acb44ad112f613f7ea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/428515575ba1b93e43826b42184c47fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/chaitrapai/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/428515575ba1b93e43826b42184c47fd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chaitrapai/Downloads/MyFirstApp/app/src/main/AndroidManifest.xml
